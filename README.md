@@ -19,10 +19,9 @@ The outer shell and tail fin support structure are 3D-printed, resulting in a co
 RobotGoldfish/
 │
 ├─ code/        # Control programs
-├─ simulation/       # Simulink model and simulation results
+├─ simulation/  # Simulink model and simulation results
 ├─ data/        # land_test.csv
 ├─ hardware/    # 3D models, BOM
-├─ images/      # Photos, test results
 └─ README.md    # Project description
 ```
 
