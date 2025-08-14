@@ -16,9 +16,10 @@ The outer shell and tail fin support structure are 3D-printed, resulting in a co
 
 ## Repository Structure
 ```
-MyFishRobot/
+RobotGoldfish/
 │
 ├─ code/        # Control programs
+├─ simulation/       # Simulink model and simulation results
 ├─ data/        # land_test.csv
 ├─ hardware/    # 3D models, BOM
 ├─ images/      # Photos, test results
